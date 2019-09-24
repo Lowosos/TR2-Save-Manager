@@ -24,7 +24,3 @@ The file is included in the package, although the source is not provided, becaus
 When you run it, it renames the saves, so that the save file with the lowest number will be 0.
 That means, if you have saves with numbers 8, 9, 11, it will rename them to 0, 1, 3. 
 Basically use it, or delete it, as you wish.
-
-___________________________
-| Created by Lowosos, 2019 |
-|__________________________|
